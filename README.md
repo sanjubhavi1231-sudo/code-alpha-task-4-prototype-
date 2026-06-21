@@ -2,7 +2,7 @@
 # CodeAlpha UI/UX Design Internship Task
 
 ## Project Title
-E-Commerce Mobile App Design
+food delivery App Design
 
 ## Description
 This project was designed in Figma as part of the CodeAlpha UI/UX Design Internship. The design includes user-friendly screens and a clean interface focused on enhancing the user experience.

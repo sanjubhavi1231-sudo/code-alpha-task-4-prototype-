@@ -1,4 +1,4 @@
-# code-alpha-task-4-prototype-
+# code-alpha-task-4-prototype and explanation-
 # CodeAlpha UI/UX Design Internship Task
 
 ## Project Title

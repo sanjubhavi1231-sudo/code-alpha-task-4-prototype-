@@ -9,6 +9,9 @@ This project was designed in Figma as part of the CodeAlpha UI/UX Design Interns
 
 ## Figma Design Link
 https://www.figma.com/design/ulvqaJfDqlAfn71e2gkjj5/TASK-4-PROTOTYPE?m=auto&t=DFatYHnG864TrQd0-6
+
+https://www.figma.com/proto/ulvqaJfDqlAfn71e2gkjj5/TASK-4-PROTOTYPE?page-id=0%3A1&node-id=6-3&p=f&viewport=210%2C147%2C0.49&t=nAK5EGCPtCOlv0N5-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4001%3A3
+
 ## Author
 Bisht Sanjana Krishna
 
